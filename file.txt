@@ -1,6 +1,6 @@
 "abcdefghijklmnopqrstuvwxyz",
 "abcdefghijklmnopqrstuvwxyz",
+"Abcdefghijklmnopqrstuvwxyz",
 "abcdefghijklmnopqrstuvwxyz",
 "abcdefghijklmnopqrstuvwxyz",
-"abcdefghijklmnopqrstuvwxyz",
-"abcdefghijklmnopqrstuvwxyz"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
